@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>SineVideo</h1> 
+    <h1>SineMovie</h1> 
     <p>A sineMovie é uma plataforma de stream que contempla filmes e series</p>
     <p>Esse projeto ainda não está totalmente finalizado</p>
 </body>
